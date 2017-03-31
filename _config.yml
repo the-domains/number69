@@ -1,0 +1,50 @@
+layout_spectrum: 0.40384930437569055
+typography_spectrum: 0.7901956501325574
+color:
+  brandStrength: 0.4820584057195868
+  lightness: 0.3030397243341339
+  saturation: 0.41843938373001566
+  rhythmicContrast: 0.36926526753453187
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: number69
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/514f7568-feaf-4693-9673-81f311055aa1.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/514f7568-feaf-4693-9673-81f311055aa1.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+url: 'https://www.number69.org'
+title: Number 69
+description: America's Favorite Number
+github: true
